@@ -25,7 +25,7 @@
             my_test_two();
             my_test_two();
             my_test_two();
-
+            echo $GLOBALS['y'];
 
         ?>
     </body>
